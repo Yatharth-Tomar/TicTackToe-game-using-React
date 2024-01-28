@@ -1,0 +1,25 @@
+.grid{
+    display: flex;
+    justify-content: center;
+   
+    flex-wrap: wrap;
+    background-color: aquamarine;
+    width: 15rem;
+    margin: auto;
+    padding: 0.5rem;
+    border-radius: 10px;
+}
+
+.btn{
+    background-color: black;
+    height: 25px;
+    width: 50px;
+    margin-left: 5px;
+    margin-top: 1.5rem;
+    color: white;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+h3{
+    margin-left:43rem;
+}
